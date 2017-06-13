@@ -1,0 +1,18 @@
+{
+  "name": "WundergroundToPWSWeather",
+  "version": "0.0.1",
+  "description": "Synchronize PWS data from Wunderground to PWSWeather. Useful for Rachio",
+  "tags": "weather underground pws station rachio wunderground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Griggs <jonathan.griggs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "1.2.1",
+    "moment": "2.18.1",
+    "request": "2.81.0",
+    "wunderground": "0.0.0"
+  }
+}
