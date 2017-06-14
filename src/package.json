@@ -1,18 +1,24 @@
 {
-  "name": "WundergroundToPWSWeather",
-  "version": "0.0.1",
-  "description": "Synchronize PWS data from Wunderground to PWSWeather. Useful for Rachio",
+  "name": "Wunderground2PWS",
+  "version": "1.1.0",
+  "description": "Synchronize PWS data from Wunderground to PWSWeather. Useful for Rachio Smart Sprinkler controller.",
   "tags": "weather underground pws station rachio wunderground",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha test"
   },
   "author": "Jonathan Griggs <jonathan.griggs@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "cron": "1.2.1",
+    "lodash.tonumber": "4.0.3",
     "moment": "2.18.1",
     "request": "2.81.0",
     "wunderground": "0.0.0"
+  },
+  "devDependencies": {
+    "lodash.omit": "4.5.0",
+    "mocha": "3.4.2",
+    "should": "11.2.1"
   }
 }
