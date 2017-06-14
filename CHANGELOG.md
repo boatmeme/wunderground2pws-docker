@@ -4,6 +4,7 @@
 ## [1.1.0] - 2017-06-14
 ### Added
 - Unit tests implemented with Mocha
+- This Changelog
 
 ### Changed
 - Invalid data from Weather Underground will be filtered out of updates to PWSWeather
