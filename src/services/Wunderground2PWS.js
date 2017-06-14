@@ -26,10 +26,8 @@ class Wunderground2PWS {
         if (updateTime.isSameOrBefore(this.getLastUpdated(pws_id))) {
            return Promise.resolve({ status: 400, message: 'Old Data from Wunderground, skipping update...'});
         }
-        console.log( updateTime );
         return this.pwsClient.update( pws_id, Wunderground2PWS.mapPayload(conditions) )
           .then( results => {
-            console.log(Wunderground2PWS.mapPayload(conditions) );
             this.lastUpdated[pws_id] = updateTime;
             return Object.assign( results, { message: `Synchronized wu:${wu_pws} with pws:${pws_id}` })
           })
