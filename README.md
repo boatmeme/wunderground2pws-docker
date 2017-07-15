@@ -1,5 +1,6 @@
 ## Wunderground2PWS
 [![Docker Build Statu](https://img.shields.io/docker/build/boatmeme/wunderground2pws.svg?style=flat-square)](https://hub.docker.com/r/boatmeme/wunderground2pws/) [![license](https://img.shields.io/github/license/boatmeme/wunderground2pws-docker.svg?style=flat-square)](https://github.com/boatmeme/wunderground2pws-docker/blob/master/LICENSE)
+[![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/make-wish.svg?style=flat-square)](https://beerpay.io/boatmeme/wunderground2pws-docker?focus=wish)
 
 ### What does it do?
 Running this image will allow you to copy data from a Weather Underground station to a PWSWeather.com station on a fixed schedule.
@@ -99,7 +100,7 @@ For other correspondence, you can find my email address on my [Github profile](h
 ## Support on Beerpay
 Contributions to the :beers: fund are much appreciated!
 
-[![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/badge.svg?style=beer-square)](https://beerpay.io/boatmeme/wunderground2pws-docker)  [![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/make-wish.svg?style=flat-square)](https://beerpay.io/boatmeme/wunderground2pws-docker?focus=wish)
+[![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/badge.svg?style=beer-square)](https://beerpay.io/boatmeme/wunderground2pws-docker)
 
 ## License
 
