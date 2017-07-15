@@ -119,3 +119,8 @@ For other correspondence, you can find my email address on my [Github profile](h
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/badge.svg?style=beer-square)](https://beerpay.io/boatmeme/wunderground2pws-docker)  [![Beerpay](https://beerpay.io/boatmeme/wunderground2pws-docker/make-wish.svg?style=flat-square)](https://beerpay.io/boatmeme/wunderground2pws-docker?focus=wish)
